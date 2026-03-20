@@ -200,7 +200,7 @@ export default function App() {
     }, 400);
   };
 
-  const profilePhoto = "images/profile.jpg";
+  const profilePhoto = "/images/profile.jpg";
 
   return (
     <div className="portfolio-app">
