@@ -281,7 +281,7 @@ export default function App() {
           <h3>My Academic Journey</h3>
           <div className="education-card">
             <h4>St. Peter's Engineering College</h4>
-            <p><strong>Current Status:</strong> 2nd Year, 1st Semester, Computer Science Engineering (AIML)</p>
+            <p><strong>Current Status:</strong> 2nd Year, 2nd Semester, Computer Science Engineering (AIML)</p>
             <p><strong>Expected Graduation:</strong> 2028</p>
             <p>My studies here are providing a strong foundation in core computer science principles, with a specialized focus on Artificial Intelligence and Machine Learning, preparing me for the innovative demands of the tech industry.</p>
           </div>
